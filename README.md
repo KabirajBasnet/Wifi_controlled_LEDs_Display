@@ -10,6 +10,6 @@ Upload the reciever code to the ESP-01 module( select board type as 'Generic ESP
 Now take the reciver code and upload it to the ESP-32 module(remember to change select board type), then just plug it into you pc and use the python code to do as you wish..., add new song or just remove the song and just play with patterns or just add more patterns as you like.
 ***
 # Prerequsites:
-> The ESP-01 module only supports 3.3V power, so remember that while powering it.
-> If the range is not enough you can just create a couple of repeaters to relay the signal better,well that for you to explore👌.
-> Just enjoy this project!!!!
+* The ESP-01 module only supports 3.3V power, so remember that while powering it. 
+* If the range is not enough you can just create a couple of repeaters to relay the signal better,well that for you to explore👌.
+* Just enjoy this project!!!!
