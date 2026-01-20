@@ -11,5 +11,5 @@ Now take the reciver code and upload it to the ESP-32 module(remember to change 
 ***
 # Prerequsites:
 * The ESP-01 module only supports 3.3V power, so remember that while powering it. 
-* If the range is not enough you can just create a couple of repeaters to relay the signal better,well that for you to explore👌.
+* If the range is not enough you can just create a couple of repeaters to relay the signal better,well that's for you to explore👌.
 * Just enjoy this project!!!!
